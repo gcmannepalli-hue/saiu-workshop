@@ -3,5 +3,11 @@
 ## Firts Year 
 
 ### 1st Sem 
- - Pofessional english
- - Basic computer science knowledge
+ - Writing and Communication
+ - EVS
+ - C Programming
+ - Frontiers of AI
+ - Linear Algebra
+ - Entrepreneurship
+   
+   
